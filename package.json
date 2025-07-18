@@ -3,6 +3,7 @@
   "displayName": "PER-Pack",
   "description": "PER VSCode development kit",
   "version": "0.0.1",
+  "publisher": "irvingywang",
   "engines": {
     "vscode": "^1.102.0"
   },
@@ -26,5 +27,9 @@
     "streetsidesoftware.code-spell-checker", 
     "zainchen.json", 
     "zixuanwang.linkerscript"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PurdueElectricRacing/per-pack.git"
+  }
 }
