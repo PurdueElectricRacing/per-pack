@@ -1,0 +1,30 @@
+{
+  "name": "per-pack",
+  "displayName": "PER-Pack",
+  "description": "PER VSCode development kit",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "aaron-bond.better-comments", 
+    "dan-c-underwood.arm", 
+    "eamodio.gitlens", 
+    "llvm-vs-code-extensions.vscode-clangd", 
+    "marus25.cortex-debug", 
+    "mcu-debug.debug-tracker-vscode", 
+    "mcu-debug.memory-view", 
+    "mcu-debug.peripheral-viewer", 
+    "mcu-debug.rtos-views", 
+    "ms-python.debugpy", 
+    "ms-python.python", 
+    "ms-python.vscode-pylance", 
+    "ms-vscode.cmake-tools", 
+    "streetsidesoftware.code-spell-checker", 
+    "zainchen.json", 
+    "zixuanwang.linkerscript"
+  ]
+}
