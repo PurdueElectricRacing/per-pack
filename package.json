@@ -2,8 +2,9 @@
   "name": "per-pack",
   "displayName": "PER-Pack",
   "description": "PER VSCode development kit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "irvingywang",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.102.0"
   },
