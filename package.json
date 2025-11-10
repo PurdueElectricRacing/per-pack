@@ -2,7 +2,7 @@
   "name": "per-pack",
   "displayName": "PER-Pack",
   "description": "PER VSCode development kit",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "irvingywang",
   "icon": "icon.png",
   "engines": {
@@ -24,10 +24,10 @@
     "ms-python.debugpy", 
     "ms-python.python", 
     "ms-python.vscode-pylance", 
-    "ms-vscode.cmake-tools", 
-    "streetsidesoftware.code-spell-checker", 
-    "zainchen.json", 
-    "zixuanwang.linkerscript"
+    "ms-vscode.cmake-tools",
+    "zainchen.json",
+    "zixuanwang.linkerscript",
+    "lharri73.dbc"
   ],
   "repository": {
     "type": "git",
