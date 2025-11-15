@@ -27,7 +27,8 @@
     "ms-vscode.cmake-tools",
     "zainchen.json",
     "zixuanwang.linkerscript",
-    "lharri73.dbc"
+    "lharri73.dbc",
+    "rust-lang.rust-analyzer"
   ],
   "repository": {
     "type": "git",
