@@ -28,7 +28,10 @@
     "zainchen.json",
     "zixuanwang.linkerscript",
     "lharri73.dbc",
-    "rust-lang.rust-analyzer"
+    "rust-lang.rust-analyzer",
+    "samuelcolvin.jinjahtml",
+    "hediet.vscode-drawio",
+    "tomoki1207.pdf"
   ],
   "repository": {
     "type": "git",
